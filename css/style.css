@@ -224,23 +224,6 @@ body {
   margin: 1rem auto 0.5rem;
 }
 
-/* Jawaban UAS */
-.jawaban h2 span {
-  color: #cf0000;
-}
-
-.jawaban .row {
-  margin-top: 1.2rem;
-  justify-content: center;
-}
-
-.jawaban .row .jawaban-img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 5px;
-}
-
 /* Kontak */
 .kontak h2 span {
   color: var(--primary);
